@@ -1,4 +1,3 @@
-// /src/routes/usersRoutes.js
 import express from "express";
 import UsersController from "../controllers/userControllers.js";
 import authMiddleware from "../middlewares/auth.js";
