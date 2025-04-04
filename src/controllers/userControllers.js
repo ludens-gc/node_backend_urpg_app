@@ -1,4 +1,3 @@
-// /src/controllers/userControllers.js
 import jwt from "jsonwebtoken";
 import User from "../models/users.js";
 
